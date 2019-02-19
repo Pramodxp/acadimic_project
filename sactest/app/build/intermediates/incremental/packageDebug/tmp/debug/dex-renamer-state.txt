@@ -1,0 +1,4 @@
+#Wed May 23 05:12:04 PDT 2018
+base.0=C\:\\Users\\pramod\\Desktop\\and\\sactest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

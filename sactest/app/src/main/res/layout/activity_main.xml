@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.map.app.sactest.MainActivity"
+    android:background="@drawable/bac">
+
+    <Button
+        android:id="@+id/DriverLogin"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="120dp"
+        android:text="Driver Login"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+   <!-- <Button
+        android:id="@+id/adminLogin"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="244dp"
+        android:text="Admin Login"
+        android:textSize="18sp"
+        android:textStyle="bold" />-->
+
+    <Button
+        android:id="@+id/studentLogin"
+        android:layout_width="287dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="155dp"
+        android:text="Student Login"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="267dp"
+        android:layout_height="35dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="39dp"
+        android:text="Welcome To "
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
